@@ -1,0 +1,11 @@
+hammer	10.25
+grill	1000
+spatula	15.95
+paint	25.50
+wrench	20.29
+gloves	30
+boots   40.50
+saw     27.20
+fence   60.00
+cement  45.00
+stormDoor  83.60
